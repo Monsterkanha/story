@@ -1,1 +1,2 @@
-this is first story.
+This is first story.
+And this is updated version.
